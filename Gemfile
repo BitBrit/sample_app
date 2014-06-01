@@ -17,7 +17,7 @@ group :test do
   gem 'capybara', '2.1.0'
   gem 'libnotify', '0.8.0'
 end
-
+gem 'sass', '~>3.2.15'
 gem 'sass-rails', '4.0.1'
 gem 'uglifier', '2.1.1'
 gem 'coffee-rails', '4.0.1'
